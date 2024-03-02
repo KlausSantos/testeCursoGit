@@ -1,4 +1,4 @@
-<h1>Curso de Git e Github</h1>
+<h1 align="center">Curso de Git e Github</h1>
 
 <h2>Sobre</h2>
 

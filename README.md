@@ -1,4 +1,4 @@
-<h1>Curso de Git e Github</h1>
+<h1 align="center">Curso de Git e Github</h1>
 
 <h2>Sobre</h2>
 
@@ -21,6 +21,7 @@
 </div>
 
 <p>No curso também foi ensinado a utilizar o Source Control do VSCode</p>
+<<<<<<< HEAD
 
 ## Outros comandos - Comandos
 <p>git log --oneline</p>
@@ -48,3 +49,5 @@
 <p>git push origin --tags  - envia todas as tags para o repositório remoto</p>
 <p>git cherry-pick hash_commit - pega o commit de outra branch e traz para a branch atual</p>
 <p>git blame (nome_arquivo) - mostra o responsável por cada commit</p>
+=======
+>>>>>>> 773250d8f749103d879a291cbc87960b15c6690b
